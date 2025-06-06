@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+   Anorganik       0.87      0.82      0.84       293
+          B3       0.79      0.46      0.58        24
+     Organik       0.74      0.85      0.79       189
+
+    accuracy                           0.81       506
+   macro avg       0.80      0.71      0.74       506
+weighted avg       0.82      0.81      0.81       506
